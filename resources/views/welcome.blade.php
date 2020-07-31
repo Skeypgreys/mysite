@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Тест ПК
+                    Тест Ноута
                 </div>
 
                 <div class="links">
